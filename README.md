@@ -1,6 +1,6 @@
 ## 欢迎来到SKY_Hero的 GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/l3126596029/SKY.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你可以使用[editor on GitHub](https://github.com/l3126596029/SKY.github.io/edit/master/README.md)编辑维护和预览网站中的内容。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
