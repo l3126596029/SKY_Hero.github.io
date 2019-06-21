@@ -48,7 +48,7 @@ author:
 
     本来是打算用烂大街的wordpress的，然而它提供的免费版本不能改插件，想要更高的自定义功能需要自己去弄主机并且映射域名。如果算域名主机的花费，一个月恐怕就得花60大洋。然而我只是个穷学生啊。
 
-    之后JJN告诉我可以用jekyll结合github建立免费的静态博客的，套用[模板](https://github.com/qwtel/qwtel.github.io)以后就是你们现在看到的这个界面了
+    之后JJN告诉我可以用jekyll结合github建立免费的静态博客的，套用[模板](https://guides.github.com/features/mastering-markdown/)以后就是你们现在看到的这个界面了
 
     说实话一直对网页搭建很感兴趣，之前曾经看过黄油的博客，觉得在这种快节奏的网络生活中留下一份自己的宁静也是极好的，很受感动。
 
