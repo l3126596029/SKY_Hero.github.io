@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weblate SKY联盟推广
+title: SKY联盟的推广
 tags: [essay]
 description: >
     介绍下起源、经过和目的
@@ -36,7 +36,7 @@ weblate的使用并不复杂。
 - 一个你自己的邮箱：最好是申请github时候用的邮箱，这样可以将你的贡献显示在github统计信息中。
 - 你的id：这个就比较随意了，必须是英文。最好是你的github用户名，这样可以将你的贡献显示在github统计信息中。
 
-之后管理员会给你一个密码，你就可以用邮箱、密码登录weblate参与SKY的项目了。
+之后管理员会给你一个密码，你就可以用邮箱、密码登录并参与SKY联盟的项目了。
 
 ## 5. 鸣谢
 感谢GitHub
