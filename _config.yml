@@ -40,8 +40,7 @@ author:
   name:              'SKY-盖世英雄'
 
   # This photo will be used in the about section
-![image](https://github.com/l3126596029/SKY_Hero.github.io/blob/master/photos/SKY.png)
-photo:https://github.com/l3126596029/SKY_Hero.github.io/blob/master/photos/SKY.png
+![image](https://github.com/l3126596029/SKY_Hero.github.io/blob/master/public/img/001.jpg)
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
