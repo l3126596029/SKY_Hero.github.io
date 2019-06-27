@@ -28,13 +28,13 @@ weblate的使用并不复杂。
 其他地区：[https://weblate.exz.me/](https://weblate.exz.me/)
 
 目前因为一些原因，weblate项目并不对外开放，如果想要加入我们，首先需要向管理员申请账户。目前管理员有y位：
-- SKY_盖世英雄：l3126596029@163.com
+- SKY_盖世英雄：l3126596029@163.com l3126596029@gmail.com 3126596029@qq.com
 - SKY_绝世浪仙：2652360078@qq.com
 - SKY_风华绝世：暂无
 - SKY-浪荡不羁：2856697401@qq.com
 - SKY-盖世太寳:2253015399@qq.com
 - SKY-锅·筱华:
-- SKY-1111：
+- SKY-浪涛远航：2903147545@qq.com
 - SKY-1111：
 - SKY-1111：
 
