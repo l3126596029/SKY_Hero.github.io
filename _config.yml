@@ -27,7 +27,7 @@ description:         >
 sidebar_tags:        [wiki, essay]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /public/img/001.jpg
+image:               https://github.com/l3126596029/SKY_Hero.github.io/blob/master/public/img/001.jpg
 color:               '#A85641'
 
 # Fonts
