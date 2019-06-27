@@ -32,7 +32,7 @@ color:               '#A85641'
 
 # Fonts
 font:                'Ubuntu Mono, consolas, 微软雅黑'
-font_accent:         'Ubuntu Mono, consolas, 华文细黑, 微软雅黑'
+font_accent:         'Ubuntu Mono, consolas, 微软雅黑'
 load_google_fonts:   'consolas'
 
 # About yourself
