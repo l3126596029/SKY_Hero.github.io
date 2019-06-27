@@ -21,7 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  盟主QQ:3126596029,有会的可以加QQ帮我。
+  盟主QQ:3126596029,有会这方面的可以加QQ帮我。
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [wiki, essay]
