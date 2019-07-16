@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SKY联盟推广的开始
+title: SKY-天团 推广的开始
 tags: [essay]
 description: >
     介绍下起源、经过和目的
