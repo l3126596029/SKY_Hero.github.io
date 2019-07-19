@@ -21,13 +21,7 @@ description: >
 最后的流程和当初我的设想有些不同，但是大体上是一致的。
 
 ## 3. 联系盟主及管理
-weblate的使用并不复杂。
-
-首先给出weblate翻译项目的地址：
-中国大陆：[https://weblate.sayori.pw/](https://weblate.sayori.pw/)
-其他地区：[https://weblate.exz.me/](https://weblate.exz.me/)
-
-目前因为一些原因，weblate项目并不对外开放，如果想要加入我们，首先需要向管理员申请账户。目前管理员有y位：
+- 目前管理员有y位：
 - SKY_盖世英雄：l3126596029@163.com l3126596029@gmail.com 3126596029@qq.com
 - SKY_绝世浪仙：2652360078@qq.com
 - SKY_风华绝世：暂无
